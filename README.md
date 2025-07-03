@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics<br>🌱 I’m currently re-learning PowerBI, R Studio, and SQL<br>💬 Ask me about Automation and Data Analytics<br>⚡ Fun fact: I have an N5 Japanese Certificate
+🔭 I’m currently working on Automation Testing using RobotFramework<br>🌱 💬 Ask me about Automation and QA<br>⚡ Fun fact: I have an N5 Japanese Certificate
 
 
 ## 🌐 Socials:
